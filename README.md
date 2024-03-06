@@ -50,7 +50,7 @@ Abaixo um exemplo de uma partida de xadrez no console:
    
    
 - Cada peça é identificada por sua inicial, como "P" para peão, "N" para cavalo, "B" para bispo, "R" para torre, "Q" para rainha e "K" para rei. 
-- Vale ressaltar que o game conta com regras avançadas, como en passant e promoção de peão e rock pequeno e grande.
+- As peças pretas correspondem as peças de cor amarela no tabuleiro.
 
 
  
