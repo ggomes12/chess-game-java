@@ -44,16 +44,9 @@ A interface do jogo exibirá o tabuleiro de xadrez, representado por uma matriz 
 
 Abaixo um exemplo de uma partida de xadrez no console:
 
+/home/guigomes/IdeaProjects/game-chess/out/production/game-chess/images
+![Captura de Tela do Jogo de Xadrez](https://github.com/seu-usuario/seu-repositorio/blob/caminho-da-imagem/captura-de-tela-xadrez.png)
 
-8  R  N  B  Q  K  B  N  R
-7  p  p  p  p  p  p  p  p
-6  -  -  -  -  -  -  -  -
-5  -  -  -  -  -  -  -  -
-4  -  -  -  -  -  -  -  -
-3  -  -  -  -  -  -  -  -
-2  P  P  P  P  P  P  P  P
-1  R  N  B  Q  K  B  N  R
-   a  b  c  d  e  f  g  h
    
    
 - Cada peça é identificada por sua inicial, como "P" para peão, "N" para cavalo, "B" para bispo, "R" para torre, "Q" para rainha e "K" para rei. 
