@@ -44,8 +44,8 @@ A interface do jogo exibirá o tabuleiro de xadrez, representado por uma matriz 
 
 Abaixo um exemplo de uma partida de xadrez no console:
 
-/home/guigomes/IdeaProjects/game-chess/out/production/game-chess/images
-![Captura de Tela do Jogo de Xadrez](https://github.com/seu-usuario/seu-repositorio/blob/caminho-da-imagem/captura-de-tela-xadrez.png)
+![Tabuleiro Inicial](https://github.com/ggomes12/chess-game-java/tree/fec07fa66e19d156e5bb98b40eb5d5817443158f/images/img_tabuleiro_inicial.png)
+
 
    
    
